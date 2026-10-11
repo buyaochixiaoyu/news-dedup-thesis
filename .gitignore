@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+envs/
+
+# 临时/中间文件
+_check.txt
+_git.txt
+_git2.txt
+_env.txt
+_repo.txt
+_py.txt
+_jieba.txt
+_mk.txt
+results/_cnt.txt
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
